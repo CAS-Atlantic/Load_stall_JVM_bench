@@ -13,7 +13,3 @@ This repository contains the code of the stall-focused benchmarks for JVMs on th
         * /SearchTree - contains N-ary tree implementation using LCRS and the benchmark performing DFS on a shared tree.
     * /InterfaceChecking - contains the benchmark for type checking.
     * /ObjectLayout - contains the benchmark for huge object handling.
-
-## Example Usage
-
-To be done.
